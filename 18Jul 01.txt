@@ -7,6 +7,14 @@ ccc
 
 Change2{
 zzz
+yyy
 xxx
 }
+
+changeFromRemote{
+ttt
+rrr
+eee
+}
+
 
