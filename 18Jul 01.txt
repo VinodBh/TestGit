@@ -7,11 +7,22 @@ ccc
 
 Change2{
 zzz
+yyy
 xxx
 }
 
+<<<<<<< HEAD
 Change4
 {
 qqq
 ppp
 }
+=======
+changeFromRemote{
+ttt
+rrr
+eee
+}
+
+
+>>>>>>> 0f3d03ddf985185f49476639e6cc0ccad409a3e6
